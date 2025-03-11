@@ -1,10 +1,13 @@
-## Hi there 👋
+## Hi! 🤙
 
+It's me Jan "Hokil" Zátka, welcome to my Github! 👨‍💻	
+I am currently living in Prague, studying CVUT (Czech Technical University in Prague).
+Proud alumni of both Gymnázium Česká Lípa (Czech Republic) 🍻 and Hamilton Highschool in Milwaukee (USA) 🗽
 <!--
 **tecik133/tecik133** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
+Here are some ideas to get you started:    
+          
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
